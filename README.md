@@ -1,3 +1,25 @@
+# 📢 **Notice: Development Moved to Official Organization Repository**
+**This repository is now archived. The official development continues at:**  
+[https://github.com/synthara-company/synthara-project](https://github.com/synthara-company/synthara-project)
+
+[![Official Repo](https://img.shields.io/badge/Synthara_Organization-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/synthara-company/synthara-project)
+
+---
+
+<p align="center">
+	<b>Powered by Synthara</b>
+	<br>
+	<a href="https://github.com/synthara-company/synthara-project">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synthara-company/synthara-project/main/public/synthara-linkedin-header-dark.svg">
+			<source media="(prefers-color-scheme: dim)" srcset="https://raw.githubusercontent.com/synthara-company/synthara-project/main/public/synthara-linkedin-header-dim.svg">
+			<img src="https://raw.githubusercontent.com/synthara-company/synthara-project/main/public/synthara-linkedin-header.svg" alt="Synthara Powered" width="550">
+		</picture>
+	</a>
+</p>
+
+---
+
 # Synthara Project
 
 Synthara is an AI-powered platform that provides visual and content analysis, along with clean, harmonious experiences. It offers features such as blog post creation, AI image analysis, AI audio analysis, AI video analysis, YouTube video analysis, Llama4 Maverick integration, voice assistant functionality, multiple theme support, API endpoints for content processing, Google Gemini API integration, server infrastructure, and more.
